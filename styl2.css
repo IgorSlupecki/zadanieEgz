@@ -1,0 +1,54 @@
+#kontener{
+    font-family: Helvetica, sans-serif;
+    background-color: linen;
+    color:#222;
+    width: 90%;
+}
+a{
+    color: #aaa;
+    text-decoration: none;
+    border-bottom: solid white 2px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+img{
+    width: 500px;
+    height: 75px;
+}
+#numHSL{
+    width: 200px;
+}
+#stopka{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+}
+#baner1{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+#baner2{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+#baner{
+    display: flex;
+    flex-direction: row;
+}
+td{
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+table{
+margin: 40px        ;
+}
